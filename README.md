@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Can
+- 👀 I’m passionate about Data Science, Machine Learning and AI technologies.
+- 🌱 I’m currently learning about Natural Language Processing, automation, spatial econometrics and duration analysis.
+- 📫 You can reach me out by sending an email to hcanminareci@gmail.com
